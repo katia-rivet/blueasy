@@ -1,0 +1,184 @@
+body{
+    padding:0px 0px;
+}
+
+
+header{
+    background: url("accueilFleur.jpg") center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0px 0px;
+}
+
+.navAccueil{
+    background-color: rgba(61, 56, 56, 0.5) !important;
+}
+
+.navbar-brand{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+.blueasy{
+    color: rgb(34, 199, 228);
+}
+
+.home{
+    color: rgb(34, 199, 228) !important;
+    border-style: solid;
+    border-color: rgb(34, 199, 228);
+    padding-top: 6px;
+}
+
+.container-fluid{
+
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+body{
+    margin:0;
+    padding:0;
+}
+
+.bgh1{
+    background-color: rgba(61, 56, 56, 0.5) !important;
+    padding: 0px 2px;
+}
+
+.textAccueil{
+    height: 100vh;
+}
+
+
+.service{
+    padding: 2px 0 20px 0;
+    background: url("fondBleu.png") center no-repeat fixed; 
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.default{
+    padding: 2px 0px 2px 0px;
+    background: url("fondTransparent.jpg") center no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.galerie{
+    width: 250px;
+    height: 200px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0px;
+    margin-right: 0px;  
+    display : block;  
+}
+
+.visit{
+    color: black;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 1px;
+}
+
+.visit2{
+    text-decoration: none;
+    color: black;
+    margin-left: 0px;
+}
+
+.visit2:hover{
+    color: black;
+}
+
+.galerie:hover{
+    background-image: url("hover.png");
+    opacity: 0.5;
+}
+
+.formulaire{
+    background: url("layer-1.jpg") center center no-repeat;
+    background-size: cover;   
+    /*background-attachment: fixed ; 
+    height: 100vh;*/
+ } 
+
+ .formulaire2{
+    background-color:rgba(0, 0, 0,0.5) !important;
+    
+ }
+
+ .fond{
+    background-color:rgb(75,202,255);
+
+
+ }
+.icon{
+    border-style:solid;
+    border-color: rgb(250, 243, 243);
+
+
+}
+.twit{
+
+padding:1.23rem 1.23rem; 
+}
+
+.terre{
+padding:1.08rem 1.1rem;
+}
+
+.cafe{
+
+padding: 1.17rem 1.2rem;
+}
+.google{
+
+padding: 1.04rem 1.1rem;
+}
+
+input {
+    background: rgba(174, 179, 173, 0.1) !important;
+} 
+
+textarea{
+    background: transparent !important;
+    
+} /*POURQUOI CA MARCHE PAAAAAAS*/
+
+.btn{
+    background:rgb(75,202,255)!important;
+
+}
+
+.container-fluid {
+
+padding-left: 0;
+padding-right: 0;
+} 
+
+.photo{
+
+background-image: url("Sans-titre-2.jpg");
+background-size: cover; 
+background-position: center; 
+/*background-attachment: fixed ;  
+height: 60vh;*/
+
+}
+
+.photo2{
+    background-color:rgba(0, 0, 0,0.5) !important;
+}
+
+.walter{
+    color: rgb(75, 202, 255);
+}
+
+.gris{
+    color: rgb(146, 145, 145) !important;
+}
