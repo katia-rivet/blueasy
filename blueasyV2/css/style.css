@@ -1,0 +1,97 @@
+header {
+    /* background: url(../img/ble.png) center center no-repeat no-repeat;
+    background-size: cover; */
+    height: 100vh;
+    /* margin: 0px 0px; */
+}
+
+.textAccueil{
+    color: white;
+    background-color: rgba(81, 95, 103, 0.8) !important;
+    padding: 0px 2px;
+    
+}
+
+.textAccueil2{
+    height: 100vh;
+}
+
+.cadreBleu{
+    background-color: #4BCAFF;
+}
+
+.cadreGris{
+    background-color: rgba(81, 95, 103, 0.8);
+}
+
+.whoIsJohnDoe{
+    /* background: url(../img/appareilphoto.png) no-repeat no-repeat;
+    background-size: cover; */
+    /* height: 100vh; */
+    min-height: 40vh;
+    background: transparent;
+
+}
+
+.contact{
+    /* background: url(../img/phototasse.png) no-repeat no-repeat;
+    background-size: cover; */
+    height: 80vh;
+
+}
+
+footer{
+    background-color: #353F47;
+    color: rgb(146, 145, 145) !important;
+}
+
+.ecrit1{
+   font-size: 75%; 
+}
+.ecrit2{
+    color:#515F67 ;
+
+}
+
+.home, .navPort{
+    color: rgb(34, 199, 228) !important;
+    border-style: solid;
+    border-color: rgb(34, 199, 228);
+    padding-top: 6px;
+}
+
+.retour{
+    position: fixed;
+    bottom: 2vh;
+    right: 2vw;
+    /* text-align: right; */
+    color: rgb(34, 199, 228);
+}
+
+.navPortfolio{
+    color: rgb(81, 95, 103);
+}
+
+
+
+.galerie{
+    width: 200px;
+    height: 200px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0px;
+    margin-right: 0px;  
+    display : block;  
+}
+
+.icon{
+    border-style: solid;
+    border-color: rgb(250, 243, 243);
+    padding: 0.5rem 0.5rem;
+}
+
+input {
+    background: rgba(174, 179, 173, 0.1) !important;
+}
+
+
